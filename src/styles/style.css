@@ -67,8 +67,9 @@ input {
 }
 
 .btn-save {
-    background-color: red;
+    background-color: rgb(255, 219, 13);
     margin-right: 10px;
+    color: black;
 }
 
 .btn-update {
@@ -94,8 +95,6 @@ input {
 
 }
 
-
-
 .btnRemove {
     padding: 5px;
     border-radius: 5px;
@@ -105,12 +104,8 @@ input {
     width: 100%;
     font-size: 1em;
     border: none;
+    cursor: pointer;
 }
-
-
-
-
-
 
 footer {
     padding: 10px;
