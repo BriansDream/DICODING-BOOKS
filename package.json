@@ -1,0 +1,19 @@
+{
+  "name": "dicoding-api-books",
+  "version": "1.0.0",
+  "description": "implement all javascript knowledge start from basic until AJAX",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BriansDream/DICODING-BOOKS.git"
+  },
+  "author": "briansdream",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BriansDream/DICODING-BOOKS/issues"
+  },
+  "homepage": "https://github.com/BriansDream/DICODING-BOOKS#readme"
+}
